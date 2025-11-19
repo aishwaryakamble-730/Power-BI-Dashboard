@@ -1,10 +1,10 @@
-# 📊 Power BI Analytics Project
+#  Power BI Analytics Project
 
 This repository includes a collection of Power BI dashboards and reports created as part of a comprehensive analytics assignment. The project covers key areas of Power BI such as data modeling, DAX, Power Query transformations, and interactive visual design using multiple real-world datasets.
 
 ---
 
-## 🚀 Key Components
+##  Key Components
 
 ### **Dashboards & Visuals**
 - Year-over-year sales comparison using line & clustered column charts  
@@ -15,14 +15,14 @@ This repository includes a collection of Power BI dashboards and reports created
 
 ---
 
-## 🧩 Data Modeling & Power Query
+##  Data Modeling & Power Query
 - Combined 3 years of Box Office Mojo data into a unified **Master Table**  
 - Performed data cleaning, shaping, and merging in Power Query  
 - Loaded only optimized, model-ready tables into Power BI  
 
 ---
 
-## 🧮 DAX & Calculations
+##  DAX & Calculations
 - Measures for Current Year vs Last Year Sales  
 - YoY Growth %  
 - Time intelligence calculations  
@@ -30,7 +30,7 @@ This repository includes a collection of Power BI dashboards and reports created
 
 ---
 
-## 🎨 Visual Techniques
+##  Visual Techniques
 - Conditional formatting (color scales, icons, data bars, custom rules)  
 - Bookmarks for switching between Year, Quarter, and Month views  
 - Drill-through for deeper analysis of specific regions  
@@ -38,7 +38,7 @@ This repository includes a collection of Power BI dashboards and reports created
 
 ---
 
-## 🛠 Tools & Skills Used
+##  Tools & Skills Used
 - Power BI Desktop  
 - Power Query Editor  
 - DAX (Data Analysis Expressions)  
