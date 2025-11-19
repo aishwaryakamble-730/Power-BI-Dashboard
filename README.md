@@ -48,7 +48,7 @@ This repository includes a collection of Power BI dashboards and reports created
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 This project demonstrates practical Power BI skills, including transforming raw data into dashboards, building analytical models, applying DAX, and designing interactive visuals to deliver meaningful business insights.
 
 ---
